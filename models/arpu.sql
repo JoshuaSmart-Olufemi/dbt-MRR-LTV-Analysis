@@ -1,4 +1,4 @@
-
+---ARPU: dividing MRR by the total number of customers that you have. 
 WITH CTE AS (
   SELECT DISTINCT(A) AS Distinct_Customers
   FROM
